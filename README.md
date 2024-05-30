@@ -1,3 +1,12 @@
+Dependencias Instaladas para este proyecto de Prueba Zegocloud
+
+react native navigation con las dependencias
+
+npm install @react-navigation/native @react-navigation/native-stack
+npm install react-native-screens react-native-safe-area-context
+
+https://reactnative.dev/docs/navigation
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
